@@ -10,7 +10,7 @@ programa {
     real hip = (cat1*cat1)+(cat2*cat2)
     real resultado = m.raiz( hip,  2)
   
-    escreva("Considerando uma casa que mede ", cat1," x ", cat2," metros, a quantidade mÌnima necess·ria de fio a ser comprada È de ", m.arredondar(resultado, 2) , " metros.")
+    escreva("Considerando uma casa que mede ", cat1," x ", cat2," metros, a quantidade m√≠nima necess√°ria de fio a ser comprada √© de ", m.arredondar(resultado, 2) , " metros.")
 
 
     
